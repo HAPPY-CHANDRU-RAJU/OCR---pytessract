@@ -1,3 +1,6 @@
+"""
+Designed by Happy Chandru Raju
+"""
 import pytesseract
 import os
 import tkinter
